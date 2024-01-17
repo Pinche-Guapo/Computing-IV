@@ -1,0 +1,42 @@
+\section{PS0: Hello World with SFML}\label{sec:ps0}
+
+\subsection{Discussion}\label{sec:ps0:disc}
+
+This project was to setup a Linux build environment and use SFML library. I used Virtual Box with my desk top. I had to use SFML graphics library to put sprite and interact with it. I made the program to move the picture up and down, left to right, and rotate by using the code.
+
+\lstinputlisting{ps0/moving_code0.cpp}
+
+
+\begin{figure}[tbh]
+	\centering
+	\includegraphics[width=8cm]{sfmlworks}
+	\caption{PS0 Result with the code implementation}
+	\label{fig:PS0 Sprite}
+\end{figure}
+
+\subsection{Places to get help}
+I got most of the help from YouTube videos. It helped me to understand how SFML library works and which code to use in order to draw sprite on window and use effects.
+
+\subsection{What I accomplished}\label{sec:ps0:accomplish}
+
+I accomplished to put the picture and move around with the code above, rotate, and flip the sprite over with two different keys.
+
+%\subsection{What I already knew}\label{sec:ps0:knew}
+
+\subsection{What I learned}\label{sec:ps0:learned}
+
+I learned how to make a program on window. I always was curious how to actually interact with a window and show some graphics other than showing the result output on the console box. It was cool to use SFML libraries and flag codes to put everything on the window which makes it easier for us.
+
+%\subsection{Challenges}\label{sec:ps0:challenges}
+
+\subsection{Mistakes}\label{sec:ps0:mistakes}
+I got two points off on this project because I miss the part of ps0 prompt saying I have to keep green circle that is provided us. For the other point off, I did not use relative path to bring pictures to the program as prompt asked me to because I tried using it, but it was not calling the sprite correctly, so I ended up using absolute file path.
+
+
+\subsection{Codebase}\label{sec:ps0:code}
+Makefile
+\lstinputlisting[language=Make]{ps0/Makefile}
+main.cpp
+\lstinputlisting{ps0/main.cpp}
+
+\newpage

@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/j/Desktop/latex (copy)/ps4a'
+g++ --std=c++14 -Wall -Werror -pedantic -o test.o -c test.cpp
+g++ --std=c++14 -Wall -Werror -pedantic -o test test.o -lboost_unit_test_framework
+cpplint --filter=-runtime/references,-build/c++11,-build/include_subdir,--root=. *.cpp *.hpp
+make: Leaving directory '/home/j/Desktop/latex (copy)/ps4a'
+ 

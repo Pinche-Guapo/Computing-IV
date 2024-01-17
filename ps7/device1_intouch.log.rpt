@@ -1,0 +1,30 @@
+Boot Report
+ Intouch logfile: device1_intouch.log
+Lines scanned: 443839
+
+Device boot count: initiated = 6, completed: 6
+
+Booting
+435369(device1_intouch.log):2014-03-25 19:11:59Starting...
+435759(device1_intouch.log):2014-03-25 19:15:02Boot complete
+Booting time: 183000ms 
+Booting
+436500(device1_intouch.log):2014-03-25 19:29:59Starting...
+436859(device1_intouch.log):2014-03-25 19:32:44Boot complete
+Booting time: 165000ms 
+Booting
+440719(device1_intouch.log):2014-03-25 22:01:46Starting...
+440791(device1_intouch.log):2014-03-25 22:04:27Boot complete
+Booting time: 161000ms 
+Booting
+440866(device1_intouch.log):2014-03-26 12:47:42Starting...
+441216(device1_intouch.log):2014-03-26 12:50:29Boot complete
+Booting time: 167000ms 
+Booting
+442094(device1_intouch.log):2014-03-26 20:41:34Starting...
+442432(device1_intouch.log):2014-03-26 20:44:13Boot complete
+Booting time: 159000ms 
+Booting
+443073(device1_intouch.log):2014-03-27 14:09:01Starting...
+443411(device1_intouch.log):2014-03-27 14:11:42Boot complete
+Booting time: 161000ms 

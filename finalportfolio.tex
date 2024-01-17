@@ -1,0 +1,70 @@
+\documentclass[12pt]{article}
+
+%
+% FILL OUT THIS SECTION
+% 
+\author{Jeongjae Han}
+\date{Summer 2022}
+\newcommand{\secno}{011}
+\newcommand{\timetocomplete}{6 hours}
+
+% Packages
+\usepackage[T1]{fontenc} % Some font fixes
+\usepackage{amsmath, amssymb, amsthm} % Allows extra math commands
+\usepackage{listings} % Allows importing code
+\usepackage{subcaption} % Helps with figures
+\usepackage{graphicx} % Allows including images
+\usepackage[dvipsnames,table]{xcolor} % Helps with manipulating colors
+\usepackage{hyperref} % Link to web pages
+\usepackage[legalpaper, margin=1in]{geometry} % Adjusts page margins
+
+% Settings for portfolio
+\title{Computing IV Sec \secno: Project Portfolio}
+\setcounter{tocdepth}{1}
+
+% Formatting style for code
+\definecolor{backcolour}{rgb}{0.92,0.92,0.90}
+\lstdefinestyle{cppcode}{
+	language=c++,
+	%basicstyle=\footnotesize\ttfamily,
+	basicstyle=\ttfamily,
+	commentstyle=\color{Green},
+	tabsize=4,
+	columns=flexible,
+	keepspaces=true,
+	numbers=left,
+	keywordstyle=\color{Blue},
+	stringstyle=\color{Maroon},
+	showstringspaces=false,
+	backgroundcolor=\color{backcolour},
+	frame=single,
+	breaklines=true
+}
+\lstset{style=cppcode}
+% Get images from figures directory
+\graphicspath{ {./figures/} }
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\vfill
+Time to Complete Portfolio: \timetocomplete
+
+\newpage
+
+% ADD INCLUDES FOR PROJECTS HERE
+\include{ps0} % Adds the chapter from ps0.tex
+\include{ps1a}
+\include{ps1b}
+\include{ps2}
+\include{ps3a}
+\include{ps3b}
+\include{ps4a}
+\include{ps4b}
+\include{ps6}
+\include{ps7}
+
+\end{document}

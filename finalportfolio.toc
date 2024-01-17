@@ -1,0 +1,70 @@
+\contentsline {section}{\numberline {1}PS0: Hello World with SFML}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Discussion}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Places to get help}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}What I accomplished}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}What I learned}{2}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Mistakes}{2}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Codebase}{3}{subsection.1.6}%
+\contentsline {section}{\numberline {2}PS1a: Linear Feedback Shift Register}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Discussion}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}What I accomplished}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}What I already knew}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}What I learned}{6}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Mistakes}{6}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Codebase}{6}{subsection.2.6}%
+\contentsline {section}{\numberline {3}PS1b: PhotoMagic}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Discussion}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Places to get help}{10}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}What I accomplished}{10}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}What I learned}{10}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Extra Credit}{10}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Codebase}{11}{subsection.3.6}%
+\contentsline {section}{\numberline {4}PS2: Triangle Fractal}{17}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Discussion}{17}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Places to get help}{17}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Challenges}{17}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Mistakes}{17}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Extra Credit}{17}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Codebase}{17}{subsection.4.6}%
+\contentsline {section}{\numberline {5}PS3a: N-Body Simulation (Static)}{21}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Discussion}{21}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Places to get help}{21}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}What I accomplished}{21}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}What I learned}{21}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Challenges}{22}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Mistakes}{22}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Extra Credit}{22}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Codebase}{22}{subsection.5.8}%
+\contentsline {section}{\numberline {6}PS3b: N-Body Simulation}{27}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Discussion}{27}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Places to get help}{27}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Challenges}{27}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Mistakes}{27}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Extra Credit}{27}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Codebase}{27}{subsection.6.6}%
+\contentsline {section}{\numberline {7}PS4a: CircularBuffer}{37}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Discussion}{37}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Places to get help}{37}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}What I learned}{37}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Challenges}{37}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Mistakes}{37}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Codebase}{38}{subsection.7.6}%
+\contentsline {section}{\numberline {8}PS4b: StringSound}{41}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Discussion}{41}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Places to get help}{41}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Challenges}{41}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Mistakes}{42}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Codebase}{42}{subsection.8.5}%
+\contentsline {section}{\numberline {9}PS6: Random Writer}{49}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Discussion}{49}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Places to get help}{50}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}What I learned}{50}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Mistakes}{50}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Codebase}{50}{subsection.9.5}%
+\contentsline {section}{\numberline {10}PS7: Kronos Log Parsing}{56}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Discussion}{56}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Places to get help}{56}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Challenges}{56}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Mistakes}{56}{subsection.10.4}%
+\contentsline {subsection}{\numberline {10.5}Extra Credit}{56}{subsection.10.5}%
+\contentsline {subsection}{\numberline {10.6}Codebase}{56}{subsection.10.6}%

@@ -1,0 +1,60 @@
+\section{PS1b: PhotoMagic}\label{sec:ps1b}
+
+\subsection{Discussion}\label{sec:ps1b:disc}
+
+This project uses PS1a's codes and use the codes to encrypt and decrypt a picture. The program calls a pixel and takes the bitstring of the color of the pixel and uses generate function to change the value of the color and stores it. Then moves to other pixel and do the same thing until the last pixel, so the program encrypts the picture. Then if you run the encrypted picture, it will use the same technique to decrypt the picture and you will be able to see the original image.
+
+
+\begin{figure}[tbh]
+	\centering
+	\includegraphics[width=8cm]{encrypt}
+	\caption{After encrypting an image}
+	\label{fig:Encrypt}
+\end{figure}
+
+\begin{figure}[tbh]
+	\centering
+	\includegraphics[width=8cm]{decrypt}
+	\caption{After decrypting an image}
+	\label{fig:Decrypt}
+\end{figure}
+
+\subsection{Places to get help}
+
+I got help from stackoverflow, cplusplus.com, ps0, and youtube.com
+
+
+\subsection{What I accomplished}\label{sec:ps1b:accomplish}
+
+My program ran as it should. Since the size of the picture was 200 x 200 I made two for-loops one for the side and one for the up and down, so the program goes over all the pixels.
+
+\lstinputlisting{ps1b/pixelN.cpp}
+
+%\subsection{What I already knew}\label{sec:ps0:knew}
+
+\subsection{What I learned}\label{sec:ps1b:learned}
+
+I learned that every pixel stores 3 values for color: red, green, and blue which are the three colors for the light, and I can interact with it by assigning the values for each of them.
+Also, I did not expect that left shifting the value with a key will encrypt and also decrypt image.
+
+%\subsection{Challenges}\label{sec:ps0:challenges}
+\subsection{Extra Credit}\label{sec:ps1b:Extra Credit}
+
+I got 2 extra credits because I made the binary bit string by adding the characters of the string up and modular 2 and divide by 2 the integer. I implemented it to the header file then, I can test if the program the codes are running properly.
+
+\subsection{Codebase}\label{sec:ps1b:code}
+
+Makefile
+\lstinputlisting[language=Make]{ps1b/Makefile}
+pixels.cpp
+\lstinputlisting{ps1b/pixels.cpp}
+FibLFSR.cpp
+\lstinputlisting{ps1b/FibLFSR.cpp}
+FibLFSR.hpp
+\lstinputlisting{ps1b/FibLFSR.hpp}
+PhotoMagic.cpp
+\lstinputlisting{ps1b/PhotoMagic.cpp}
+test.cpp
+\lstinputlisting{ps1b/test.cpp}
+
+\newpage
